@@ -1,6 +1,6 @@
 # **JAVA图片爬虫**
 
-## **用于本博客的图库建设，爬取网站为蜂鸟摄影**
+## **用于博客的图库建设，爬取网站为蜂鸟摄影**
 
 ### **首先观察网站的源码，用的Google Chrome，F12就能看到**
 ![cmd-markdown-logo](https://ww1.sinaimg.cn/large/005zWjpngy1fv14cjekf9j30f60bat9b.jpg)
